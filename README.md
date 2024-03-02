@@ -17,6 +17,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+---
+
+### :woman_technologist: About Me :
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!---
 ShivamNishad0/ShivamNishad0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
