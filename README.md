@@ -9,10 +9,9 @@
 ---
 
 ### 🚀 **About Me**  
-- 🌱 I’m currently learning **[Your Tech Stack]**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 📫 How to reach me: **your-email@example.com**  
-- ⚡ Fun fact: **[Something interesting about you]**  
+- 🌱 I’m currently learning **AI Using Python**  
+- 👯 I’m looking to collaborate on **Projects**  
+- 📫 How to reach me: **2k23.mca2313672@gmail.com**  
 
 ---
 
