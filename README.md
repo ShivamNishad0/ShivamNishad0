@@ -11,7 +11,7 @@
 ### 🚀 **About Me**  
 - 🌱 I’m currently learning **AI Using Python**  
 - 👯 I’m looking to collaborate on **Projects**  
-- 📫 How to reach me: **2k23.mca2313672@gmail.com**  
+- 📫 How to reach me: **sn.shivamni@gmail.com**  
 
 ---
 
