@@ -47,6 +47,4 @@
   <a href="mailto:2k23.mca2313672@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
 
-⭐ **Feel free to fork and customize this README for your profile!** 🚀
