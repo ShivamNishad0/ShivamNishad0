@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Passionate Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/your-username?tab=followers"><img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=ShivamNishad0&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/your-username?tab=followers"><img src="https://img.shields.io/github/followers/ShivamNishad0?label=Followers&style=social" alt="GitHub followers"></a>
 </p>
 
 ---
