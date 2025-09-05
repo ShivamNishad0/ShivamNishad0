@@ -37,8 +37,7 @@
 
 ### 📂 **Highlighted Projects**
 - 🏥 [**DocEase**](https://github.com/ShivamNishad0/DocEase) – Smart doctor recommendation system  
-- 🛍️ [**Perfume Shop**](https://github.com/ShivamNishad0) – Full Stack E-commerce with React + Node.js  
-- 📅 [**Crestwood College Scheduler**](https://github.com/ShivamNishad0) – Course scheduling optimizer  
+ 
 
 ---
 
