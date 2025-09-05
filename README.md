@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShivamNishad0&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/ShivamNishad0?tab=followers"><img src="https://img.shields.io/github/followers/ShivamNishad0?label=Followers&style=social" alt="GitHub followers"></a>
-  <a href="https://github.com/ShivamNishad0?tab=repositories"><img src="https://badges.pufler.dev/repos/ShivamNishad0" alt="Repos Badge"></a>
 </p>
 
 ---
