@@ -1,13 +1,12 @@
 <h1 class="center">👋 Hey there! I'm Shivam Nishad</h1>
         
 <div>Full Stack Web Developer | React & JavaScript Enthusiast | Building Digital Solutions</div>
-       
 
-        <img class="floating-right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img class="floating-right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-        <h3>🚀 About Me</h3>
+<h3>🚀 About Me</h3>
 
-        <pre><code>const shivam = {
+<pre><code>const shivam = {
     pronouns: "he" | "him",
     location: "India 🇮🇳",
     code: ["JavaScript", "Python", "HTML", "CSS"],
