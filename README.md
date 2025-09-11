@@ -26,3 +26,14 @@
     currentFocus: "Building scalable web applications with React",
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };</code></pre>
+
+<h3>🎯 What I'm Up To</h3>
+        <ul>
+            <li>🔭 <strong>Currently Working On:</strong> Advanced React patterns and state management</li>
+            <li>🌱 <strong>Learning:</strong> Next.js, TypeScript, and cloud deployment</li>
+            <li>👯 <strong>Looking to Collaborate On:</strong> Open source projects and innovative web solutions</li>
+            <li>💭 <strong>Ask Me About:</strong> Frontend development, React hooks, REST APIs</li>
+            <li>⚡ <strong>Fun Fact:</strong> I can spend hours perfecting a single CSS animation!</li>
+        </ul>
+
+<hr>
