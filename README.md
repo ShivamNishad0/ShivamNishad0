@@ -67,3 +67,44 @@
         </div>
 
 <hr>
+<h2 class="center">🏆 Featured Projects</h2>
+
+<div class="project-card">
+            <h3>🏥 DocEase - Smart Doctor Recommendation</h3>
+            <p><em>Intelligent healthcare solution connecting patients with the right doctors</em></p>
+            
+<p><strong>Tech Stack:</strong> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Machine Learning</code></p>
+            
+<div class="feature-list">
+                <strong>Key Features:</strong>
+                <ul>
+                    <li>🔍 Smart doctor matching algorithm</li>
+                    <li>📱 Responsive design for all devices</li>
+                    <li>💬 Real-time appointment booking</li>
+                    <li>⭐ Rating and review system</li>
+                </ul>
+            </div>
+            
+<div style="margin-top: 20px;">
+                <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify" alt="Live Demo">
+                <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github" alt="Source Code">
+            </div>
+        </div>
+<hr>
+
+<h2 class="center">📊 GitHub Analytics</h2>
+
+<div class="stats-container">
+            <img src="https://github-readme-stats.vercel.app/api?username=ShivamNishad0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamNishad0&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+        </div>
+
+<div class="center" style="margin: 20px 0;">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamNishad0&theme=tokyonight" alt="GitHub Streak" />
+        </div>
+
+<div class="center" style="margin: 20px 0;">
+            <img src="https://github-profile-trophy.vercel.app/?username=ShivamNishad0&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+        </div>
+
+<hr>
