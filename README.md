@@ -28,21 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali24srivastava&" alt="anjali24srivastava" /></p>
 
-
----
-
-<p align="center">
-  
-</p>
-
----
-
-### 🚀 **About Me**  
-- 🌱 Currently learning **AI Using Python**  
-- 👯 Open to collaborate on **Open Source & Real-world Projects**  
-- 📫 Reach me at: **sn.shivamni@gmail.com**  
-- ⚡ Fun fact: *I debug faster with music 🎶*  
-
 ---
 
 ### 🛠️ **Tech Stack**  
