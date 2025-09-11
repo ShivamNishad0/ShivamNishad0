@@ -2,7 +2,7 @@
         
 <div>Full Stack Web Developer | React & JavaScript Enthusiast | Building Digital Solutions</div>
 
-<img class="floating-right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img class="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3>🚀 About Me</h3>
 
