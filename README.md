@@ -86,7 +86,7 @@
             </div>
             
 <div style="margin-top: 20px;">
-                <img src="https://doceasee.netlify.app&logo=netlify" alt="Live Demo">
+                <img src="https://doceasee.netlify.app" alt="Live Demo">
                 <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github" alt="Source Code">
             </div>
         </div>
