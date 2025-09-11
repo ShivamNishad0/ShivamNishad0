@@ -95,7 +95,7 @@
 <h2 class="center">📊 GitHub Analytics</h2>
 
 <div class="stats-container">
-            <img src="https://github-readme-stats.vercel.app/api?username=ShivamNishad0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api?username=ShivamNishad0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamNishad0&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
         </div>
 
