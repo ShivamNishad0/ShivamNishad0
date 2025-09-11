@@ -1,26 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivam Nishad</h1>
 <h3 align="center">A passionate Web Developer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ShivamNishad0&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamNishad0" /> 
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=ShivamNishad0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 - 🌱 I’m currently learning **Bootstrap and ReactJS**  
 - 💬 Ask me about **HTML, CSS, JavaScript, Web Development**  
 - 📫 How to reach me: **sn.shivamni@gmail.com**  
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -47,25 +36,25 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamNishad0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamNishad0&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamNishad0&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamNishad0&theme=default&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamNishad0&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamNishad0&layout=compact&theme=default&bg_color=ffffff&title_color=000000&text_color=000000" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShivamNishad0&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShivamNishad0&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="trophies"/>
 </p>
 
 ---
 
 ### 📈 **Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamNishad0&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamNishad0&theme=github-light" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -82,4 +71,3 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
