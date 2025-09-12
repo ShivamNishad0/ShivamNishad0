@@ -70,7 +70,26 @@
 <h2 class="center">🏆 Featured Projects</h2>
 
 <div class="project-card">
-            <h3>🏥 DocEase - Smart Doctor Recommendation</h3>
+            <h3>🏥 Task Tracker</h3>
+            <p><em>Manage the task and track in one view if getting problem to achive them get with the chat bot to get instant solution.</em></p>
+            
+<p><strong>Tech Stack:</strong> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Express</code></p>
+            
+<div class="feature-list">
+                <strong>Key Features:</strong>
+                <ul>
+                    <li>🔍 List your tasks </li>
+                    <li>📱 Manage your tasks </li>
+                    <li>💬 Get reminder on the whatsapp</li>
+                    <li>⭐ Get help with the chatbot</li>
+                </ul>
+            </div>
+            
+<div style="margin-top: 20px;">
+                <img src="https://doceasee.netlify.app" alt="Live Demo">
+                <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github" alt="Source Code">
+            </div>
+<h3>🏥 DocEase - Smart Doctor Recommendation</h3>
             <p><em>Intelligent healthcare solution connecting patients with the right doctors</em></p>
             
 <p><strong>Tech Stack:</strong> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Machine Learning</code></p>
