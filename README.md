@@ -71,17 +71,17 @@
 
 <div class="project-card">
             <h3>🏥 Task Tracker</h3>
-            <p><em>Intelligent healthcare solution connecting patients with the right doctors</em></p>
+            <p><em>Manage the task and track in one view if getting problem to achive them get with the chat bot to get instant solution.</em></p>
             
-<p><strong>Tech Stack:</strong> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Machine Learning</code></p>
+<p><strong>Tech Stack:</strong> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Express</code></p>
             
 <div class="feature-list">
                 <strong>Key Features:</strong>
                 <ul>
-                    <li>🔍 Smart doctor matching algorithm</li>
-                    <li>📱 Responsive design for all devices</li>
-                    <li>💬 Real-time appointment booking</li>
-                    <li>⭐ Rating and review system</li>
+                    <li>🔍 List your tasks </li>
+                    <li>📱 Manage your tasks </li>
+                    <li>💬 Get reminder on the whatsapp</li>
+                    <li>⭐ Get help with the chatbot</li>
                 </ul>
             </div>
             
