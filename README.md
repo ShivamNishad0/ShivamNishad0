@@ -85,10 +85,7 @@
                 </ul>
             </div>
             
-<div style="margin-top: 20px;">
-                <img src="https://doceasee.netlify.app" alt="Live Demo">
-                <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github" alt="Source Code">
-            </div>
+
 <h3>🏥 DocEase - Smart Doctor Recommendation</h3>
             <p><em>Intelligent healthcare solution connecting patients with the right doctors</em></p>
             
@@ -104,11 +101,7 @@
                 </ul>
             </div>
             
-<div style="margin-top: 20px;">
-                <img src="https://doceasee.netlify.app" alt="Live Demo">
-                <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github" alt="Source Code">
-            </div>
-        </div>
+</div>
 <hr>
 
 <h2 class="center">📊 GitHub Analytics</h2>
