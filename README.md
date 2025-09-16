@@ -10,7 +10,7 @@
     pronouns: "he" | "him",
     location: "India 🇮🇳",
     code: ["JavaScript", "Python", "HTML", "CSS"],
-    askMeAbout: ["web dev", "react", "node.js", "databases"],
+    askMeAbout: ["web dev", "react", "node.js", "databases", "flask"],
     technologies: {
         frontEnd: {
             js: ["React", "JavaScript ES6+"],
