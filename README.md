@@ -57,6 +57,7 @@
                 <img class="badge" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
             </div>
 
+
 <h3 class="center">🔧 Tools & Platforms</h3>
             <div class="center badges-container">
                 <img class="badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
