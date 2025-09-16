@@ -94,10 +94,10 @@
 <div class="feature-list">
                 <strong>Key Features:</strong>
                 <ul>
-                    <li>🔍 Smart doctor matching algorithm</li>
-                    <li>📱 Responsive design for all devices</li>
-                    <li>💬 Real-time appointment booking</li>
-                    <li>⭐ Rating and review system</li>
+                    <li>Smart doctor matching algorithm</li>
+                    <li>Responsive design for all devices</li>
+                    <li>Real-time appointment booking</li>
+                    <li>Rating and review system</li>
                 </ul>
             </div>
             
