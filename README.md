@@ -37,7 +37,7 @@
         </ul>
 
 <hr>
-<h2 class="center">🛠️ My Tech Arsenal</h2>
+<h2 class="center">🛠️ My Tech Skills</h2>
 
 <div class="tech-section">
             <h3 class="center">🎨 Frontend</h3>
