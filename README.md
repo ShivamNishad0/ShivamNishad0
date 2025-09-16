@@ -78,10 +78,10 @@
 <div class="feature-list">
                 <strong>Key Features:</strong>
                 <ul>
-                    <li>🔍 List your tasks </li>
-                    <li>📱 Manage your tasks </li>
-                    <li>💬 Get reminder on the whatsapp</li>
-                    <li>⭐ Get help with the chatbot</li>
+                    <li>List your tasks </li>
+                    <li>Manage your tasks </li>
+                    <li>Get reminder on the whatsapp</li>
+                    <li>Get help with the chatbot</li>
                 </ul>
             </div>
             
