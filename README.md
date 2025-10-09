@@ -130,6 +130,12 @@
 <hr>
 
 <div class="connect-section">
+### 🧩 HackerRank Progress
+
+<!--HACKERRANK_START-->
+Loading stats...
+<!--HACKERRANK_END-->
+
             <h2 class="center">🤝 Let's Connect & Collaborate!</h2>
             
 <p class="center">I'm always excited to connect with fellow developers, share knowledge, and collaborate on interesting projects!</p>
