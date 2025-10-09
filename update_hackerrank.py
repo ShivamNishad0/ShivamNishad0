@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 import os
 
-USERNAME = os.getenv("HACKERRANK_USERNAME", "gauravsingh888")
+USERNAME = os.getenv("HACKERRANK_USERNAME", "2313672_mca_1_B")
 URL = f"https://www.hackerrank.com/{USERNAME}"
 
 def get_profile_data():
