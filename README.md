@@ -129,10 +129,10 @@
 
 <hr>
 
-### 🧩 HackerRank Progress
+### HackerRank Progress
 
 <!--HACKERRANK_START-->
-Loading stats...
+Solved: N/A problems
 <!--HACKERRANK_END-->
 <div class="connect-section">
 
